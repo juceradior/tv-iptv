@@ -44,7 +44,7 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-chno="50" tvg-name="Movistar Deportes" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Movistar_Deportes.png",Movistar Deportes
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133716.ts
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-chno="51" tvg-name="GolPeru" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Gol_Peru_2019.png",GolPeru
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133714.ts
+http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8447
 #EXTINF:-1 tvg-id="Liga1Max.pe" tvg-chno="52" tvg-name="Liga 1 MAX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/liga-1-peru-logo.png",Liga 1 MAX
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133710.ts
 #EXTINF:-1 tvg-id="ESPN.lat" tvg-chno="53" tvg-name="ESPN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN.png",ESPN
