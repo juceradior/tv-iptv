@@ -2,21 +2,21 @@
 #EXTINF:-1 tvg-id="Test.pe" tvg-name="Canal Test" tvg-logo="" group-title="",+ Canal Test
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE: Latina" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Latina_TV_2022.png" group-title="Peru",Latina
-http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8451
+https://jireh-1-hls-video-pe-movistar.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream1/chunks.m3u8?dpssid=b21888063459670ef7d81c07a&sid=ba5t1l1xb41933952108670efa113c246&ndvc=0
 #EXTINF:-1 tvg-id="Willax.pe" tvg-name="PE: Willax TV" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Willax_TV.png" group-title="Peru",Willax TV
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L6EKSTqA_89QllG0mCcSbQg/ts
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/159d5027-cd64-4cb0-82b1-a23393285bdc.m3u
 #EXTINF:-1 tvg-id="America.pe" tvg-name="PE: America" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/AmericaTV_2016.png" group-title="Peru",America
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5LzZASJiC2mQTB_JSYSW5Jbk/ts
+http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8433
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-name="PE: Panamericana" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Panamericana_TV_2021.png" group-title="Peru",Panamericana
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L5TJq4xjcS1iVFm8t12A-Vk/ts
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/152aec9f-b56a-45e3-a2b9-a72cb608eca8.m3u
 #EXTINF:-1 tvg-id="Exitosa.pe" tvg-name="PE: Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Peru",Exitosa TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="RPP.pe" tvg-name="PE: RPP TV" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/RPP_2018.png" group-title="Peru",RPP TV
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8469
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="PE: TVPeru" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru",TVPeru
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L-ah0SHqlh2DYrIWmPAlgqU/ts
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="PE: ATV" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ATV_2018.png" group-title="Peru",ATV
-https://alba-pe-atv-atv.stream.mediatiquestream.com/original.m3u8
+https://d19e55ehz2il4i.cloudfront.net/live2/alba-pe-atv-atv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="PE: Agro TV" tvg-logo="https://peruagropecuario.com/content/img_notas/FICA.png" group-title="Peru",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="TVPeNoticias.pe" tvg-name="PE: TVPe Noticias" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="Peru",TVPe Noticias
@@ -78,31 +78,31 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3
 #EXTINF:-1 tvg-id="CAPeru.pe" tvg-name="PE: Copa America" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/logo-copa-america.png" group-title="Deportes",Copa America
 http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L-LyyxUm22_Q7ppjpnuj5Z0/ts
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="PE: Movistar Deportes" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Movistar_Deportes.png" group-title="Deportes",Movistar Deportes
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L6FVWDBCf16I8QC5iPrsF3I/ts
+http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8461
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="PE: GolPeru" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Gol_Peru_2019.png" group-title="Deportes",GolPeru
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L5eZstygd0ckdPPKFpT8jac/ts
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/c977f4ac-4e4b-435a-aa54-d73790149d6b.m3u
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-name="PE: Liga 1 MAX" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/liga-1-peru-logo.png" group-title="Deportes",Liga 1 MAX
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
 #EXTINF:-1 tvg-id="DirectvSports.lat" tvg-name="LA: Directv Sports" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/DSports_2022.webp" group-title="Deportes",Directv Sports
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L9tctIZ7KEFGe41Zt1nyWGw/ts
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/51d9a926-e9da-4ac2-b7f0-f2437e0d29a3.m3u
 #EXTINF:-1 tvg-id="DirectvSports2.lat" tvg-name="LA: Directv Sports 2" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/DSports_2_2022.webp" group-title="Deportes",Directv Sports 2
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L5bUJAwSpnsHLc5nnckDJpg/ts
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/ecda062a-70df-49b1-a320-21535968d42c.m3u
 #EXTINF:-1 tvg-id="DirectvSports+.lat" tvg-name="LA: Directv Sports +" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/DSports_plus_2022.webp" group-title="Deportes",Directv Sports +
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5LxvzNzX9zbZzn6IuQs8njM8/ts
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/12fa32ca-f0e7-46da-8ee5-4ee424ac9504.m3u
 #EXTINF:-1 tvg-id="ESPN.lat" tvg-name="LA: ESPN" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN.png" group-title="Deportes",ESPN
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L-iV70F6FNQ3slio8p83kBM/ts
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/724ca011-fc07-4aaf-895f-c9b28a76b690.m3u
 #EXTINF:-1 tvg-id="ESPN2.lat" tvg-name="LA: ESPN 2" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN2_2006.png" group-title="Deportes",ESPN 2
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L1zlcCrJTs424mZtl70EaAg/ts
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/5e7584b5-5ff3-409a-a789-a203fe3a50cc.m3u
 #EXTINF:-1 tvg-id="ESPN3.lat" tvg-name="LA: ESPN 3" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Espn3.webp" group-title="Deportes",ESPN 3
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5Ly7qCt0mfC7C03tY-GYu6vY/ts
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/bde929ad-b408-4520-b9c7-29553a4cd4de.m3u
 #EXTINF:-1 tvg-id="ESPN4.lat" tvg-name="LA: ESPN 4" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN_4.png" group-title="Deportes",ESPN 4
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L2K1ygUWY7E-ImbyX8_2Kc0/ts
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/0ad596bc-7f15-42cd-9467-1f576b8accc4.m3u
 #EXTINF:-1 tvg-id="ESPN5.lat" tvg-name="LA: ESPN 5" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN_5.png" group-title="Deportes",ESPN 5
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L2rkFJk9tyvyG4RgStzu7Hk/ts
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/0e7a3b88-5eea-45f7-83fc-807585f03b9e.m3u
 #EXTINF:-1 tvg-id="ESPN6.lat" tvg-name="LA: ESPN 6" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN_6.png" group-title="Deportes",ESPN 6
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L0K2rftnezRlylEPvLeA0IA/ts
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/7a5c1cd0-587d-4b9e-8a44-5f1e2cc3c895.m3u
 #EXTINF:-1 tvg-id="ESPN7.lat" tvg-name="LA: ESPN 7" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN_7.png" group-title="Deportes",ESPN 7
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L2ogQk3gojZnt5MjotbT-n4/ts
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/57184c19-a667-469a-bf19-d53395c8d727.m3u
 #EXTINF:-1 tvg-id="ESPNPremium.lat" tvg-name="LA: ESPN Premium" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN_Premium_2022.webp" group-title="Deportes",ESPN Premium
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/9549
 #EXTINF:-1 tvg-id="DAZN1.lat" tvg-name="LA: DAZN 1 PL" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/DAZN_2019_logo.png" group-title="Deportes",DAZN 1 PL
