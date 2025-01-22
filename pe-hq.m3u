@@ -29,16 +29,16 @@ https://d1svme839xkbsn.cloudfront.net/original.m3u8
 https://d3r5ioyjqcy69v.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-id="Global.pe" tvg-name="PE: Global TV" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Global_2019.png" group-title="Peru",Global TV
 http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/05c2455e-b471-4871-acd3-ef0cb11897f6.m3u
-#EXTINF:-1 tvg-id="Karibeña.pe" tvg-name="PE: Karibeña TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest/scale-to-width-down/1200?cb=20190308214115" group-title="Peru",Karibeña TV
+#EXTINF:-1 tvg-id="Karibeña.pe" tvg-name="PE: Karibeña TV" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Karibena_TV2018.png" group-title="Peru",Karibeña TV
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-name="PE: Via Altomayo" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Via_Altomayo.png" group-title="Peru",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AntaresTV.pe" tvg-name="PE: Antares TV" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/antares-tv-peru.png" group-title="Peru",Antares TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.lat" tvg-name="LA: AXN" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/AXN_2015.png" group-title="Entretenimiento",AXN
-http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/9624
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/ad227b23-ca59-4582-a9f3-b2f6c40d19d9.m3u
 #EXTINF:-1 tvg-id="TNTSeries.lat" tvg-name="LA: TNT Series" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Tnt-series-latin-america.png" group-title="Entretenimiento",TNT Series
-http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/9748
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/a200f1bc-c4d0-48ab-85b0-1b852e9dd51f.m3u
 #EXTINF:-1 tvg-id="A&E.lat" tvg-name="LA: A&E" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/A&E_2008.png" group-title="Entretenimiento",A&E
 http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/35b0ee9d-c7fb-4c01-8f89-d20e8acc6fc8.m3u
 #EXTINF:-1 tvg-id="H&H.lat" tvg-name="LA: H&H" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Discovery_H&H_2022.png" group-title="Entretenimiento",H&H
@@ -76,7 +76,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 #EXTINF:-1 tvg-id="France24.lat" tvg-name="INT: France24 Español" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/France_24_2013.png" group-title="Noticias",France24 Español
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="DepChannel.pe" tvg-name="PE: Deportes Channel" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Deporchannel.png" group-title="Deportes",Deportes
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/7a7ec094-b32c-48dc-9db7-115e3acedeb4.m3u
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110360
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="PE: Movistar Deportes" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Movistar_Deportes.png" group-title="Deportes",Movistar Deportes
 http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/eef71f17-9b60-4334-93c0-c8da8f3089e8.m3u
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="PE: GolPeru" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Gol_Peru_2019.png" group-title="Deportes",GolPeru
@@ -106,7 +106,7 @@ http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/57184c19-a667-469a-bf19-d5339
 #EXTINF:-1 tvg-id="ESPNPremium.lat" tvg-name="LA: ESPN Premium" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN_Premium_2022.png" group-title="Deportes",ESPN Premium
 http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/c69bb8aa-f71d-48bb-8f9c-f35674a05637.m3u
 #EXTINF:-1 tvg-id="DAZN1.lat" tvg-name="LA: DAZN 1 PL" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/DAZN_2019_logo.png" group-title="Deportes",DAZN 1 PL
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110360
+http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/7a7ec094-b32c-48dc-9db7-115e3acedeb4.m3u
 #EXTINF:-1 tvg-id="FoxSports1.lat" tvg-name="LA: Fox Sports 1" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Fox_Sports_2023.png" group-title="Deportes",Fox Sports 1
 http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/02ce3acf-40e1-49b9-9836-b2748924d25b.m3u
 #EXTINF:-1 tvg-id="FoxSports2.lat" tvg-name="LA: Fox Sports 2" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Fox_Sports_2_2023.png" group-title="Deportes",Fox Sports 2
