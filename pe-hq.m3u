@@ -4,15 +4,15 @@ https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE: Latina" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Latina_TV_2022.png" group-title="Peru",Latina
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream1/chunks.m3u8?dpssid=b218750388056737aaf89e5cb&sid=ba5t1l1xb22768590726737ab432fb67&ndvc=0
 #EXTINF:-1 tvg-id="Willax.pe" tvg-name="PE: Willax TV" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Willax_TV.png" group-title="Peru",Willax TV
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/159d5027-cd64-4cb0-82b1-a23393285bdc.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/283
 #EXTINF:-1 tvg-id="America.pe" tvg-name="PE: America" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/AmericaTV_2016.png" group-title="Peru",America
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/1511c406-1b16-4e57-8b41-d28f4caba950.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/247
 #EXTINF:-1 tvg-id="Panamericana.pe" tvg-name="PE: Panamericana" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Panamericana_TV_2021.png" group-title="Peru",Panamericana
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/152aec9f-b56a-45e3-a2b9-a72cb608eca8.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/273
 #EXTINF:-1 tvg-id="Exitosa.pe" tvg-name="PE: Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Peru",Exitosa TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="RPP.pe" tvg-name="PE: RPP TV" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/RPP_2018.png" group-title="Peru",RPP TV
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/4a310694-7873-4b97-a2be-83afbf804154.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/297
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="PE: TVPeru" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru",TVPeru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="PE: ATV" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ATV_2018.png" group-title="Peru",ATV
@@ -36,15 +36,15 @@ https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AntaresTV.pe" tvg-name="PE: Antares TV" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/antares-tv-peru.png" group-title="Peru",Antares TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="AXN.lat" tvg-name="LA: AXN" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/AXN_2015.png" group-title="Entretenimiento",AXN
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/ad227b23-ca59-4582-a9f3-b2f6c40d19d9.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/107
 #EXTINF:-1 tvg-id="TNTSeries.lat" tvg-name="LA: TNT Series" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Tnt-series-latin-america.png" group-title="Entretenimiento",TNT Series
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/a200f1bc-c4d0-48ab-85b0-1b852e9dd51f.m3u
+http://181.209.114.13:8000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-id="A&E.lat" tvg-name="LA: A&E" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/A&E_2008.png" group-title="Entretenimiento",A&E
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/35b0ee9d-c7fb-4c01-8f89-d20e8acc6fc8.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/101
 #EXTINF:-1 tvg-id="H&H.lat" tvg-name="LA: H&H" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Discovery_H&H_2022.png" group-title="Entretenimiento",H&H
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/749a80fd-b31d-4478-a088-dbc7e58ba050.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/412
 #EXTINF:-1 tvg-id="Lifetime.lat" tvg-name="LA: Lifetime" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Lifetime_Logo.png" group-title="Entretenimiento",Lifetime
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/8b75befe-d2d6-4d85-b0d4-162710f6b345.m3u
+http://181.209.114.13:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.lat" tvg-name="LA: Telemundo Internacional" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Telemundo_2018.png" group-title="Novelas",Telemundo Internacional
 http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/f293b894-4e7a-4b6d-8a45-120e1cd7a0d1.m3u
 #EXTINF:-1 tvg-id="CanalEstrellas.lat" tvg-name="LA: Canal Estrellas" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Las_Estrellas_2016.png" group-title="Novelas",Canal Estrellas
@@ -54,15 +54,15 @@ http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/592fba06-79cf-4182-af0b-67b9c
 #EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-name="LA: Discovery Kids" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Discovery_Kids_2021.png" group-title="Infantil",Discovery Kids
 http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/377
 #EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-name="LA: Cartoon Network" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Cartoon_Network_2010.png" group-title="Infantil",Cartoon Network
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/cc4a2526-cc6b-40c7-879f-0f2849ca7274.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/375
 #EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-name="LA: Nickelodeon" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Nickelodeon_2009.png" group-title="Infantil",Nickelodeon
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/66aacf33-8f90-4bd9-9f4d-6a950b815532.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/390
 #EXTINF:-1 tvg-id="DisneyChannel.lat" tvg-name="LA: Disney Channel" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Disney_Channel_2019.png" group-title="Infantil",Disney Channel
 http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/384
 #EXTINF:-1 tvg-id="DisneyJr.lat" tvg-name="LA: Disney Jr" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Disney_Junior_2020.png" group-title="Infantil",Disney Jr
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/4f7c8600-3b2e-46a1-a68e-1b8ceb71a31d.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/385
 #EXTINF:-1 tvg-id="NickJr.lat" tvg-name="LA: Nick Jr" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Nick_Jr._2009.png" group-title="Infantil",Nick Jr
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/bde1a892-a80a-43da-9074-2eb6cdf127eb.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/394
 #EXTINF:-1 tvg-id="CNN.lat" tvg-name="INT: CNN Español" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/CNN_en_Español_2014.png" group-title="Noticias",CNN Español
 http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/da991db9-cb05-4613-885b-972dfce09f0e.m3u
 #EXTINF:-1 tvg-id="Euronews.lat" tvg-name="INT: Euronews Español" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Euronews_2022.png" group-title="Noticias",Euronews Español
@@ -78,93 +78,93 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="DepChannel.pe" tvg-name="PE: Deportes Channel" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Deporchannel.png" group-title="Deportes",Deportes
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110360
 #EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="PE: Movistar Deportes" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Movistar_Deportes.png" group-title="Deportes",Movistar Deportes
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/eef71f17-9b60-4334-93c0-c8da8f3089e8.m3u
+https://a2lja3m.fubohd.com/movistar/mono.m3u8?token=b34d04ff327c32ae8c043d111a432bc6504a8425-5a-1741772525-1741736525
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="PE: GolPeru" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Gol_Peru_2019.png" group-title="Deportes",GolPeru
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/c977f4ac-4e4b-435a-aa54-d73790149d6b.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/309
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-name="PE: Liga 1 MAX" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/liga-1-peru-logo.png" group-title="Deportes",Liga 1 MAX
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/8de55819-3988-40df-831a-4ebf871cf722.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/63061
 #EXTINF:-1 tvg-id="DirectvSports.lat" tvg-name="LA: Directv Sports" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/DSports_2022.png" group-title="Deportes",Directv Sports
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/51d9a926-e9da-4ac2-b7f0-f2437e0d29a3.m3u
-#EXTINF:-1 tvg-id="DirectvSports2.lat" tvg-name="LA: Directv Sports 2" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/DSports_2_2022.png" group-title="Deportes",Directv Sports 2
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/ecda062a-70df-49b1-a320-21535968d42c.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/479
 #EXTINF:-1 tvg-id="DirectvSports+.lat" tvg-name="LA: Directv Sports +" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/DSports_plus_2022.png" group-title="Deportes",Directv Sports +
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/12fa32ca-f0e7-46da-8ee5-4ee424ac9504.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/471
+#EXTINF:-1 tvg-id="DirectvSports2.lat" tvg-name="LA: Directv Sports 2" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/DSports_2_2022.png" group-title="Deportes",Directv Sports 2
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/477
 #EXTINF:-1 tvg-id="ESPN.lat" tvg-name="LA: ESPN" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN.png" group-title="Deportes",ESPN
 http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/522
 #EXTINF:-1 tvg-id="ESPN2.lat" tvg-name="LA: ESPN 2" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN2_2006.png" group-title="Deportes",ESPN 2
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/5e7584b5-5ff3-409a-a789-a203fe3a50cc.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/508
 #EXTINF:-1 tvg-id="ESPN3.lat" tvg-name="LA: ESPN 3" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Espn3.png" group-title="Deportes",ESPN 3
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/bde929ad-b408-4520-b9c7-29553a4cd4de.m3u
+https://c2nvdxq.fubohd.com/espn3/mono.m3u8?token=533540cea6994b19fec4099db0eda04abcfad603-b6-1741771362-1741735362
 #EXTINF:-1 tvg-id="ESPN4.lat" tvg-name="LA: ESPN 4" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN_4.png" group-title="Deportes",ESPN 4
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/0ad596bc-7f15-42cd-9467-1f576b8accc4.m3u
+https://anvtcax.fubohd.com/espn4/mono.m3u8?token=01fe352669a6f1971d29ddf360713b8d0e99d6bc-dc-1741771401-1741735401
 #EXTINF:-1 tvg-id="ESPN5.lat" tvg-name="LA: ESPN 5" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN_5.png" group-title="Deportes",ESPN 5
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/0e7a3b88-5eea-45f7-83fc-807585f03b9e.m3u
+https://ag9wzq.fubohd.com/espn5/mono.m3u8?token=7d7cf066a15cc398e88d5fd72ae93a11a20b5146-6a-1741771458-1741735458
 #EXTINF:-1 tvg-id="ESPN6.lat" tvg-name="LA: ESPN 6" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN_6.png" group-title="Deportes",ESPN 6
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/7a5c1cd0-587d-4b9e-8a44-5f1e2cc3c895.m3u
+https://aw1wcm92zq.fubohd.com/espn6/mono.m3u8?token=54222b5de47ad783ab5157a245cfca83f64e62c9-a7-1741771494-1741735494
 #EXTINF:-1 tvg-id="ESPN7.lat" tvg-name="LA: ESPN 7" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN_7.png" group-title="Deportes",ESPN 7
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/57184c19-a667-469a-bf19-d53395c8d727.m3u
+https://agl2zq.fubohd.com/espn7/mono.m3u8?token=d7c10d99755fd336850fe68dea846eae6f86af5d-01-1741771542-1741735542
 #EXTINF:-1 tvg-id="ESPNPremium.lat" tvg-name="LA: ESPN Premium" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/ESPN_Premium_2022.png" group-title="Deportes",ESPN Premium
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/c69bb8aa-f71d-48bb-8f9c-f35674a05637.m3u
-#EXTINF:-1 tvg-id="DAZN1.lat" tvg-name="LA: DAZN 1 PL" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/DAZN_2019_logo.png" group-title="Deportes",DAZN 1 PL
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/7a7ec094-b32c-48dc-9db7-115e3acedeb4.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/542
+#EXTINF:-1 tvg-id="DAZN1.lat" tvg-name="LA: DAZN 1" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/DAZN_2019_logo.png" group-title="Deportes",DAZN 1
+https://y2fzdgxl.fubohd.com/dazn1/mono.m3u8?token=f4a0916c192150330fed8cda5538cbfc8507790f-37-1741772757-1741736757
 #EXTINF:-1 tvg-id="FoxSports1.lat" tvg-name="LA: Fox Sports 1" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Fox_Sports_2023.png" group-title="Deportes",Fox Sports 1
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/02ce3acf-40e1-49b9-9836-b2748924d25b.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/456
 #EXTINF:-1 tvg-id="FoxSports2.lat" tvg-name="LA: Fox Sports 2" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Fox_Sports_2_2023.png" group-title="Deportes",Fox Sports 2
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/ecfafef4-cf93-44db-a0a2-16343b83935e.m3u
+https://bmf0aw9u.fubohd.com/foxsports2/mono.m3u8?token=b201af91e4748a89733aaf1bd0dbe38ad079b497-23-1741772791-1741736791
 #EXTINF:-1 tvg-id="FoxSports3.lat" tvg-name="LA: Fox Sports 3" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Fox_Sports_3_2023.png" group-title="Deportes",Fox Sports 3
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/d0036c34-5621-4190-9e88-7db113200974.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/537
 #EXTINF:-1 tvg-id="TNTSports.lat" tvg-name="LA: TNT Sports" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/TNT_Sports_2021.png" group-title="Deportes",TNT Sports
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/99b4c909-48eb-41f8-bc0f-d1994d015007.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/461
 #EXTINF:-1 tvg-id="TyCSports.lat" tvg-name="LA: TyC Sports" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/TyC_Sports.png" group-title="Deportes",TyC Sports
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/34e362a4-c44d-4f2d-8118-1fee5e2fa962.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/462
 #EXTINF:-1 tvg-id="WinSports.lat" tvg-name="LA: Win Sports" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/WinSports2022.png" group-title="Deportes",Win Sports
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/fef94d94-c446-4491-9065-76c5c864e159.m3u
+https://agl2zq.fubohd.com/winsports/mono.m3u8?token=49302a643b13682c4dec535942300001242456d3-00-1741772048-1741736048
 #EXTINF:-1 tvg-id="WinSportsPlus.lat" tvg-name="LA: Win Sports +" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/WinSports2022.png" group-title="Deportes",Win Sports +
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/36d0c169-0c98-4741-a454-38148ffeb3f7.m3u
+https://y2fzdgxl.fubohd.com/winsportsplus/mono.m3u8?token=afbd531ea57ccadb1007054d1ddd3498e6f1e937-0f-1741772132-1741736132
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="AR: TVPublica Argentina" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/TVPublica.png" group-title="Deportes",TVPublica Argentina
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/12a10925-63dd-47de-b137-68c4e705aaf7.m3u
+https://agvyby.fubohd.com/tvpublica/tracks-v1a1/mono.m3u8?token=76745bc1bdaba3389f6f355998a6fd044409ede8-bb-1741772612-1741736612
 #EXTINF:-1 tvg-id="HistoryChannel.lat" tvg-name="LA: History Channel" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/History_2021.png" group-title="Cultura",History Channel
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/a5d69a30-8f69-44de-8e42-eb006d4174ca.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/431
 #EXTINF:-1 tvg-id="HistoryChannel2.lat" tvg-name="LA: History 2" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/History2_logo.png" group-title="Cultura",History 2
 http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/f78ce468-c9ff-462f-9e50-7f82d89c9479.m3u
 #EXTINF:-1 tvg-id="NatGeo.lat" tvg-name="LA: National Geographic" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/National_Geographic_Society.png" group-title="Cultura",National Geographic
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/6458fd4c-89ac-4279-941e-2b3ae2903fa6.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/444
 #EXTINF:-1 tvg-id="AnimalPlanet.lat" tvg-name="LA: Animal Planet" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Animal_Planet_2018.png" group-title="Cultura",Animal Planet
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/6224856f-0628-40a6-9c2b-90c2db5b623f.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/402
 #EXTINF:-1 tvg-id="DiscoveryChannel.lat" tvg-name="LA: Discovery Channel" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Discovery_Channel_2019.png" group-title="Cultura",Discovery Channel
 http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/a9245612-2c2f-459d-bde4-751e3ff2706a.m3u
 #EXTINF:-1 tvg-id="DiscoveryID.lat" tvg-name="LA: Investigation Discovery" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Discovery_ID_2020.png" group-title="Cultura",Investigation Discovery
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/db4385ad-414d-4156-81f1-559e6ad483e5.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/439
 #EXTINF:-1 tvg-id="NasaTVPublic.wl" tvg-name="INT: NASA TV Public" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/NASA_logo.png" group-title="Cultura",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="NasaTVMedia.wl" tvg-name="INT: NASA TV Media" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/NASA_logo.png" group-title="Cultura",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="StarChannel.lat" tvg-name="LA: Star Channel" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Star_Channel_2021.png" group-title="Cine",Star Channel
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/bb6f327c-86cb-44cc-a82a-4cc3e586c22a.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/160
 #EXTINF:-1 tvg-id="TNT.lat" tvg-name="LA: TNT" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/TNT_2016.png" group-title="Cine",TNT
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/cbfc2164-b472-4dd1-8ee0-4f6b21df3cc6.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/169
 #EXTINF:-1 tvg-id="Warner.lat" tvg-name="LA: Warner" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Warner_2018.png" group-title="Cine",Warner
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/0c7311ac-9b3f-406d-ace8-27d8f177cc30.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/236
 #EXTINF:-1 tvg-id="Space.lat" tvg-name="LA: Space" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Space_2008.png" group-title="Cine",Space
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/558ff0b5-4de6-4c07-98d6-11cc3997c2b8.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/202
 #EXTINF:-1 tvg-id="StudioUniversal.lat" tvg-name="LA: Studio Universal" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Studio_Universal_2016.png" group-title="Cine",Studio Universal
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/6f682ab1-9de7-43ee-8b2a-a52f5c0db7db.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/220
 #EXTINF:-1 tvg-id="Cinecanal.lat" tvg-name="LA: Cinecanal" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Cinecanal_2018.png" group-title="Cine",Cinecanal
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/2c4ca91d-d6d2-4379-a6a6-973a4cfbbb92.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/113
 #EXTINF:-1 tvg-id="Cinemax.lat" tvg-name="LA: Cinemax" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Cinemax_2011.png" group-title="Cine",Cinemax
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/8
 #EXTINF:-1 tvg-id="FX.lat" tvg-name="LA: FX" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/FX.png" group-title="Cine",FX
 http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/d7143235-a62e-4851-b0f0-7b6b939b45bf.m3u
 #EXTINF:-1 tvg-id="Paramount.lat" tvg-name="LA: Paramount Channel" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Paramount_Network.png" group-title="Cine",Paramount Channel
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/9e9a0e98-8b8c-45f2-a903-46543ada2536.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/191
 #EXTINF:-1 tvg-id="Sony.lat" tvg-name="LA: Sony" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Sony_Channel_2019.png" group-title="Cine",Sony
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/55b4609b-3c46-44c3-ac75-a088fe722346.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/199
 #EXTINF:-1 tvg-id="DHE.lat" tvg-name="LA: DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/2560px-2020_Canal_DHE_logo.svg.png" group-title="Cine",DHE
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/9643
 #EXTINF:-1 tvg-id="SyFy.lat" tvg-name="LA: SyFy" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Syfy_2017.png" group-title="Cine",SyFy
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110081
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/222
 #EXTINF:-1 tvg-id="TCM.lat" tvg-name="LA: TCM" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/TCMLA.png" group-title="Cine",TCM
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/f07f02cf-8df2-43b7-83a5-7c64d6c83da3.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/231
 #EXTINF:-1 tvg-id="HBO.lat" tvg-name="LA: HBO" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/HBO.png" group-title="Cine",HBO
 http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/d72a9d07-f977-44ab-b19e-c4b39f91d513.m3u
 #EXTINF:-1 tvg-id="HBO2.lat" tvg-name="LA: HBO2" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/HBO2_logo.png" group-title="Cine",HBO 2
@@ -176,7 +176,7 @@ http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/24452204-be7b-4f9a-83b3-846e1
 #EXTINF:-1 tvg-id="HBOXtreme.lat" tvg-name="LA: HBO Xtreme" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/HBO_Xtreme.png" group-title="Cine",HBO Xtreme
 http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/6056fa27-2c06-4163-8070-b744777478ea.m3u
 #EXTINF:-1 tvg-id="AMC.lat" tvg-name="LA: AMC" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/AMC_2013.png" group-title="Cine",AMC
-http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/6237b54e-7f95-41d9-9d95-800ca03e8f74.m3u
+http://tvhomesmart.xyz:8080/moranbibi865432/865432moranbibi/104
 #EXTINF:-1 tvg-id="Golden.lat" tvg-name="LA: Golden" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Golden_2020.png" group-title="Cine",Golden
 http://daleplay.club:8080/live/UserMkeG/9zYuquSkXP/4359ac08-9fab-48a2-9e5d-a7c998a7ee72.m3u
 #EXTINF:-1 tvg-id="Universal.lat" tvg-name="LA: Universal" tvg-logo="https://juceradior.github.io/tv-iptv/LogosTV/Universal_TV_logo.png" group-title="Cine",Universal
